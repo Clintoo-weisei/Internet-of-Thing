@@ -35,7 +35,7 @@ function App() {
                             <div>
                                 <h3 className="text-xl font-bold mb-4">Contact</h3>
                                 <p className="text-gray-400">
-                                    Email: info@eduke.co.ke<br />
+                                    Email: info@E-Kenya.co.ke<br />
                                     Phone: +254 792505624<br />
                                     Nairobi, Kenya
                                 </p>
