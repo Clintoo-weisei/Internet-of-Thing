@@ -36,7 +36,7 @@ function App() {
                                 <h3 className="text-xl font-bold mb-4">Contact</h3>
                                 <p className="text-gray-400">
                                     Email: info@E-Kenya.co.ke<br />
-                                    Phone: +254 792505624<br />
+                                    Phone: +254792505624<br />
                                     Nairobi, Kenya
                                 </p>
                             </div>
