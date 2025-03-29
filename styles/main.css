@@ -6,6 +6,8 @@ body {
 .header {
     background: linear-gradient(-89deg,orange,purple,darkblue,red);
 	animation: gradient 15s ease infinite;
+	background-size: 69px 79px;
+
 	height: 50px;
     color:black
 }
