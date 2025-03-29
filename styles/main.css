@@ -7,7 +7,7 @@ body {
     background: linear-gradient(-89deg,orange,purple,darkblue,red);
 	animation: gradient 15s ease infinite;
 	background-size: 120px 120px;
-        height: 8pxvh;
+        height: 8px;
     color:black
 }
 
