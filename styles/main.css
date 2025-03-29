@@ -4,7 +4,7 @@ body {
 }
 
 .header {
-    background: linear-gradient(89deg,orange,purple,darkblue,red);
+    background:orange;
 	animation: gradient 15s ease infinite;
 	background-size: 120px 120px;
         height: -90vh;
