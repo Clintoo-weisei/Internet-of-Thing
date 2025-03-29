@@ -14,7 +14,7 @@ function Header() {
         };
 
         const menuItems = [
-            { id: 1, name: 'Networks', path: '/networks' },
+            {/*{ id: 1, name: 'Networks', path: '/networks' },*/}
             { id: 2, name: 'Web Development', path: '/web-development' },
             { id: 3, name: 'Mobile Apps', path: '/mobile-apps' },
             { id: 4, name: 'Cybersecurity', path: '/cybersecurity' },
