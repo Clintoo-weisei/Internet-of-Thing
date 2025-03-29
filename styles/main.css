@@ -175,12 +175,15 @@ body {
     right: 10px;
 }
 
-.footer{
+footer{
 background-color:green;	
 }
 
 
-
+.flex-grow{
+background-color: orange;
+	
+}
 
 
 
