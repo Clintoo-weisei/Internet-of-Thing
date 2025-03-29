@@ -8,7 +8,7 @@ body {
 	animation: gradient 15s ease infinite;
 	background-size: 120px 120px;
         height: -90vh;
-    color:black
+    color:black;
 }
 
 @keyframes gradient {
