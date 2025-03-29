@@ -68,7 +68,7 @@ function Header() {
                                     </button>
                                 </div>
                             ) : (
-                                <div className="flex items-center space-x-4">
+                                {/*<div className="flex items-center space-x-4">
                                     <a href="/login" className=" bg-green-500 text-black  hover:text-green-0">
                                         Login
                                     </a>
@@ -107,7 +107,7 @@ function Header() {
                                         <a href="/dashboard" className="text-white hover:text-gray-200 py-2">
                                             Dashboard
                                         </a>
-                                        <button 
+                                 {/*<button 
                                             onClick={handleLogout}
                                             className="text-red-500 hover:text-red-400 py-2 text-left"
                                         >
@@ -123,7 +123,7 @@ function Header() {
                                             Sign Up
                                         </a>
                                     </>
-                                )}
+                                )}*/}
                             </div>
                         </div>
                     )}
