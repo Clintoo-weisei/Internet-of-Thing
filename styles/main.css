@@ -174,21 +174,7 @@ body {
 .carousel-button.next {
     right: 10px;
 }
-.container{
-	background: linear-gradient(-89deg,orange,purple,darkblue,red);
-}
-@keyframes gradient {
-	0% {
-		background-position: 0% 50%;
-	}
-	50% {
-		background-position: 100% 50%;
-	}
-	100% {
-		background-position: 0% 50%;
-	}
-    
-}
+
 
 
 
