@@ -175,8 +175,9 @@ body {
     right: 10px;
 }
 
-footer{
+*footer{
 background-color:green;	
+	
 }
 
 
